@@ -37,7 +37,7 @@ ________________
 #### AWS API Gateway:
 
 - Deployed an API Gateway and created an endpoint with the following URL:
-`https://1kzlnygkfc.execute-api.eu-north-1.amazonaws.com/Demo/Lambda_function?operand1=2&operand2=13`
+https://1kzlnygkfc.execute-api.eu-north-1.amazonaws.com/Demo/Lambda_function?operand1=2&operand2=13
 - The endpoint takes two query parameters (`operand1` and `operand2`) and returns the product of multiplication.
 
 #### Creating Django Project Locally to connect with AWS:
@@ -80,7 +80,7 @@ Feel free to integrate this template into your Django project, enhancing it with
 
 ### Image of the output:
 
-<img src="https://github.com/hamzaderbaz/AWS-Lambda-Function/assets/51893602/de8ed7f8-cb83-4e72-9732-48895d8d2bc5" width="50%" />
+<img src="https://github.com/hamzaderbaz/AWS-Lambda-Function/assets/51893602/de8ed7f8-cb83-4e72-9732-48895d8d2bc5" width="100%" />
 
 ________________
 
@@ -93,8 +93,8 @@ ________________
 
 ### Image of the output:
 
-<img src="https://github.com/hamzaderbaz/AWS-Lambda-Function/assets/51893602/92789cae-3b7c-41a4-b553-96aee856db25" width="50%" />
-<img src="https://github.com/hamzaderbaz/AWS-Lambda-Function/assets/51893602/0f2e2089-c773-4e63-be62-0de4edac683d" width="50%" />
+<img src="https://github.com/hamzaderbaz/AWS-Lambda-Function/assets/51893602/92789cae-3b7c-41a4-b553-96aee856db25" width="100%" />
+<img src="https://github.com/hamzaderbaz/AWS-Lambda-Function/assets/51893602/0f2e2089-c773-4e63-be62-0de4edac683d" width="100%" />
 
 
 ## Running the Django Project Locally
